@@ -8,6 +8,7 @@ module.exports = {
     'standard-with-typescript',
     'prettier',
     'plugin:prettier/recommended',
+    'plugin:react/jsx-runtime',
   ],
   overrides: [],
   parserOptions: {
